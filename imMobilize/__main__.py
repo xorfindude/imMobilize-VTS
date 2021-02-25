@@ -19,7 +19,7 @@ from pyqtgraph import PlotDataItem, LinearRegionItem, mkPen
 import numpy as np
 from threading import Thread
 from StimuliManager.StimuliManager import StimuliManager
-from MicroControllerCode.Arduino import Arduino
+from MicroControllerCode.arduino import Arduino
 #from camera import Camera
 from CameraModule.ThreadedCam import Camera
 from datetime import datetime
